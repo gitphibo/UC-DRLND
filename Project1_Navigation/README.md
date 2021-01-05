@@ -43,4 +43,4 @@ If you are using a GPU, you have to install pytorch with cuda support. For more 
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
-The 'Navigation.ipynb' already has a model and agent included. Also you can find  pre-trained weights in file 'P1_Nav_Model_Weights-Ep175-FC1_256-FC2_64-UE5-ED0.99.pth' which can be loaded and used at the end of the notebook to observe how the agent walks through the banana world and try to collect only the yellow ones. 
+The 'Navigation.ipynb' already has a model and agent included. Also you can find  pre-trained weights in files 'P1_Nav_Model_Weights-Ep175-FC1_256-FC2_64-UE5-ED0.99.pth' and 'P1_Nav_Model_Weights-Ep324-FC1_256-FC2_64-UE5-ED0.99.pth' which can be loaded and used at the end of the notebook to observe how the agent walks through the banana world and try to collect only the yellow ones.
